@@ -1,5 +1,5 @@
 # pizza front page
- <img src="/image/front.png">
+ <img src="/image1/front.png">
  
  # week 4 project
  moringa school
