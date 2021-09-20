@@ -1,11 +1,13 @@
-# week 4 project
+# pizza front page
+ <img src="/image/front.png">
+ 
+ # week 4 project
  moringa school
 ## APPLICATION NAME.
 street pizza
  ## application description
 This website will help people to order pizza online and see the charges  if they stay far they can be deliverd to and if they stay around they can just go and pick
-# pizza front page
- <img src="/image/front.png">
+
 
 
 
@@ -40,6 +42,7 @@ This website will help people to order pizza online and see the charges  if they
 
 
 # live link of the website
+https://nur-tusa.github.io/project-4/
 
 ## BUilt with
 *1.html*
