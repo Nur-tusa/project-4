@@ -109,7 +109,7 @@
 
 
   .landing {
-      background-image: url("../image1/1.jpg");
+      background-image: url("/image1/1.jpg");
       background-repeat: round;
   }
 
